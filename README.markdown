@@ -1,13 +1,5 @@
 MongoDB ACL Bundle
 ====================
 
-This bundle allows the use of MongoDB as the storage layer for the Symfony ACLs component.
-
-[![Build Status](https://secure.travis-ci.org/iampersistent/MongoDBAclBundle.png?branch=master)](http://travis-ci.org/iampersistent/MongoDBAclBundle)
-
-
-Documentation
--------------
-
-The documentation for configuring this bundle can be found [here](Resources/doc/index.rst).
+This Bundle is now being maintained at https://github.com/zerodine/MongoDBAclBundle
 
